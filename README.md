@@ -1,4 +1,6 @@
 # -
+windows需要的写一些配置下：
+
 VScode如果想要可以运行C/C++,除了一些必要的扩展之外还需要配置mingw
 下载MinGW
 下载地址：https://sourceforge.net/projects/mingw-w64/files/
